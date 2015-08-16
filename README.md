@@ -11,8 +11,19 @@ Add the following to your maven pom.xml
 ```
 <dependency>  
   <groupId>com.vnetpublishing.lisp</groupId>
-  <artifactId>jrelisp-abcl-impl</artifactId>
+  <artifactId>clapi</artifactId>
   <version>0.0.1</version>
 </dependency>
 ```
+
+## Build
+
+Clone this project from github and execute mvn install. For snapshot releases
+add the following to your pom.xml.
+
+<dependency>  
+  <groupId>com.vnetpublishing.lisp</groupId>
+  <artifactId>clapi</artifactId>
+  <version>0.0.2-SNAPSHOT</version>
+</dependency>
 
