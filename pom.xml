@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.vnetpublishing.lisp</groupId>
 	<artifactId>clapi</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<url>http://www.vnetpublishing.com</url>
 	<name>Common Lisp Java API</name>
 	<description>Provides a generic API for Common Lisp Implementations</description>
