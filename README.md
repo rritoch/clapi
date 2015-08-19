@@ -3,6 +3,9 @@ Java Common Lisp API
 
 This project is meant to provide a standard Java API to interact with Java based Common Lisp Implementations
 
+## Status
+
+This project is not under active development and is only provided for achival purposes.  This code is not suitable for any particular purpose and is released under the MIT licence to do with as you please.
 
 ## Usage
 
